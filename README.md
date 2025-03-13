@@ -66,7 +66,7 @@ Exploratory Data Analysis (EDA) was conducted to identify trends and patterns. T
 2.	Popular Genres: Drama (986 titles) and Comedy (536 titles) are the leading genres.
 3.	Diverse Ratings: Most content is categorized under 13+ and 16+, making it suitable for a broad audience.
 4.	Global Availability: The platform distributes content across multiple countries, with a significant presence in North America and Europe.
-5.	Growth Over Time: There has been a sharp rise in content releases in recent years, indicating increased production and licensing.
+5.	Growth Over Time: Content releases have sharply risen in recent years, indicating increased production and licensing.
 
 ### Recommendations
 -	Amazon Prime could explore more diverse genres to cater to niche audiences.
